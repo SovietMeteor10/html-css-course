@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.thumbnail {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar{
+    margin-left: 10px;
+}
+
+.intro-text {
+    display: block;
+}
+
+.container {
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.top-image {
+    height: auto;
+    margin-bottom: 5px;
+}
