@@ -1,3 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
 .subscribe-button {
     background-color: rgb(200, 1, 1);
     color: white;
@@ -32,4 +35,3 @@
     cursor: pointer;
     margin: 8px;
   }
-  
